@@ -1,0 +1,11 @@
+d:\Users\zixing\Desktop\win10shoper\SymbianBluetoothControl\SymbianBluetoothControl\bin\Debug\SymbianBluetoothControl.exe.config
+d:\Users\zixing\Desktop\win10shoper\SymbianBluetoothControl\SymbianBluetoothControl\bin\Debug\SymbianBluetoothControl.exe
+d:\Users\zixing\Desktop\win10shoper\SymbianBluetoothControl\SymbianBluetoothControl\bin\Debug\SymbianBluetoothControl.pdb
+d:\Users\zixing\Desktop\win10shoper\SymbianBluetoothControl\SymbianBluetoothControl\obj\Debug\SymbianBluetoothControl.csprojAssemblyReference.cache
+d:\Users\zixing\Desktop\win10shoper\SymbianBluetoothControl\SymbianBluetoothControl\obj\Debug\SymbianBluetoothControl.Form1.resources
+d:\Users\zixing\Desktop\win10shoper\SymbianBluetoothControl\SymbianBluetoothControl\obj\Debug\SymbianBluetoothControl.Properties.Resources.resources
+d:\Users\zixing\Desktop\win10shoper\SymbianBluetoothControl\SymbianBluetoothControl\obj\Debug\SymbianBluetoothControl.csproj.GenerateResource.cache
+d:\Users\zixing\Desktop\win10shoper\SymbianBluetoothControl\SymbianBluetoothControl\obj\Debug\SymbianBluetoothControl.exe
+d:\Users\zixing\Desktop\win10shoper\SymbianBluetoothControl\SymbianBluetoothControl\obj\Debug\SymbianBluetoothControl.pdb
+d:\Users\zixing\Desktop\win10shoper\SymbianBluetoothControl\SymbianBluetoothControl\obj\Debug\SymbianBluetoothControl.csproj.CopyComplete
+d:\Users\zixing\Desktop\win10shoper\SymbianBluetoothControl\SymbianBluetoothControl\bin\Debug\zlib.net.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymbianBluetoothControl", "SymbianBluetoothControl\SymbianBluetoothControl.csproj", "{A0DEB443-6945-4164-B5F7-76E9BBA0BC9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0DEB443-6945-4164-B5F7-76E9BBA0BC9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0DEB443-6945-4164-B5F7-76E9BBA0BC9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0DEB443-6945-4164-B5F7-76E9BBA0BC9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0DEB443-6945-4164-B5F7-76E9BBA0BC9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1341DEC-3BCC-48AC-AFC6-E6D4F23F4649}
+	EndGlobalSection
+EndGlobal
